@@ -1,0 +1,4 @@
+How will AI be incorporated
+incorporate data cleaning #1 
+SVC algorithm to function trains the AI model using the Italian words #3
+AI model the evaluate user's translation #3 -- if time allows

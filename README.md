@@ -33,3 +33,52 @@ The user interface of the chatbot will be a text-based interface where users can
 
 ### Exit Message
 9. Upon exiting, the chatbot thanks the user for practicing and encourages them to come back for more exercises.
+
+
+## Dataset 
+
+**Italian_Word:** This column contains the Italian word or phrase.
+**English_Translation:** This column contains the corresponding English translation of the Italian word or phrase.
+**Type:** This column specifies whether the entry is a word or a phrase.
+**Category:** This column categorizes the vocabulary entry into different categories such as:
+1. Basic Phrases **
+2. Numbers **
+3. Colors **
+4. Animals **
+5. Food and Drinks *
+6. Family
+7. Clothing
+8. Weather
+9. Transportation
+10. Body Parts
+11. Jobs and Professions
+12. Countries and Nationalities
+13. Time and Dates
+14. Sports and Hobbies
+15. Places and Locations
+16. Emotions **
+17. Daily Activities
+18. Technology
+19. Music and Arts
+20. Nature and Environment
+21. Shopping
+22. Education
+23. Home 
+24. Travel
+
+
+
+**Difficulty_Level:** This column indicates the difficulty level of the vocabulary entry, such as "Beginner", "Intermediate", or "Advanced".
+
+
+## Functions
+
+'''
+This code utilizes scikit-learn is used for training the AI model.
+    `load_data()` function loads the vocabulary data from the CSV file. 
+    `train_model()` function trains the AI model using the Italian words as input features and the corresponding English translations as the target variable. 
+    `generate_word()` function selects a random word or phrase based on the user's chosen options. 
+    `translate_word()` function translates the Italian word using the trained model. 
+    `check_translation()` function checks the user's translation and provides feedback. 
+    `chatbot()` loop handles user interactions and prompts.
+'''
