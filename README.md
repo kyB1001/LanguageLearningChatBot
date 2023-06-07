@@ -5,9 +5,9 @@ The scope of the language learning chatbot for Italian would be to provide vocab
 
 ## Key Features
 1. Vocabulary Exercises: The chatbot will present Italian words or phrases and ask users to provide their translations or definitions.
-2. Feedback and Evaluation: The chatbot will provide feedback on the user's responses, indicating whether they are correct or incorrect.
-3. Randomization: The chatbot will randomize the selection of vocabulary items for each exercise to provide variety and prevent predictability.
-4. Difficulty Levels: The chatbot can offer different difficulty levels (e.g., beginner, intermediate, advanced) to cater to users with varying language proficiency.***
+2. Randomization: The chatbot will randomize the selection of vocabulary items for each exercise to provide variety and prevent predictability.
+3. Difficulty Levels: The chatbot can offer different difficulty levels (e.g., beginner, intermediate, advanced) to cater to users with varying language proficiency.
+4. Feedback and Evaluation: The chatbot will provide feedback on the user's responses, indicating whether they are correct or incorrect.***
 5. Progress Tracking: The chatbot can keep track of the user's progress, such as the number of exercises completed and their success rate.***
 
 ## User Interface
