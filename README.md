@@ -1,4 +1,4 @@
-# LanguageLearningChatBox
+# LanguageLearningChatBot
 
 ## Scope 
 The scope of the language learning chatbot for Italian would be to provide vocabulary practice exercises to users. The chatbot will present Italian words or phrases and ask users to provide translations or definitions in their native language (EN). The focus will be on building users' vocabulary and improving their understanding of Italian words and their meanings.
