@@ -7,6 +7,7 @@ The scope of the language learning chatbot for Italian would be to provide vocab
 MVP(v1): “Standard ChatBot”
 1. Vocabulary Exercises: The chatbot will present Italian words or phrases and ask users to provide their translations or definitions.
 2. Randomization: The chatbot will randomly select vocabulary items for each exercise to provide variety and prevent predictability.
+
 MVP+(v2): “Personalized ChatBot”    
 3. Difficulty Levels: The chatbot can offer different difficulty levels (e.g., beginner, intermediate, advanced) to cater to users with varying language proficiency.
 4. Feedback and Evaluation: The chatbot will provide feedback on the user's responses, indicating whether they are correct or incorrect.
