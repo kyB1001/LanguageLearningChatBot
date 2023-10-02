@@ -43,8 +43,11 @@ The user interface of the chatbot will be a text-based interface where users can
 ## Dataset 
 
 **Italian_Word:** This column contains the Italian word or phrase.
+
 **English_Translation:** This column contains the corresponding English translation of the Italian word or phrase.
+
 **Type:** This column specifies whether the entry is a word or a phrase.
+
 **Category:** This column categorizes the vocabulary entry into different categories such as:
 1. Basic Phrases **
 2. Numbers **
@@ -78,12 +81,12 @@ The user interface of the chatbot will be a text-based interface where users can
 
 ## Functions
 
-'''
-This code utilizes scikit-learn is used for training the AI model.
+This code utilizes sci-kit-learn is used for training the AI model.
+
     `load_data()` function loads the vocabulary data from the CSV file. 
     `train_model()` function trains the AI model using the Italian words as input features and the corresponding English translations as the target variable. 
     `generate_word()` function selects a random word or phrase based on the user's chosen options. 
     `translate_word()` function translates the Italian word using the trained model. 
     `check_translation()` function checks the user's translation and provides feedback. 
     `chatbot()` loop handles user interactions and prompts.
-'''
+    
